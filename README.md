@@ -1,2 +1,2 @@
 # neowords
-This purpose is recording the words I wanted remember.
+This purpose is recording the words I want to remember.
